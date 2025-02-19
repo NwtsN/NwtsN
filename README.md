@@ -1,3 +1,3 @@
 - 👋 This is my GitHub page, where you can explore my recent projects and see what I have been working on lately.
-- It showcases a variety of repositories that reflect my interests and skills in mathematics, statistics, and business analysis.
+- It showcases a variety of repositories that reflect my interests and skills in data science.
 - Feel free to browse through my code and contributions to gain insights into my work and ongoing development as an aspiring data scientist.
